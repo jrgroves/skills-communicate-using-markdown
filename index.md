@@ -11,3 +11,6 @@ set <- data %>%
         mutate(base = case_when(sat==1 ~ 0,
                                 TRUE ~ 1)
 ```
+- [ ] Make Economics 691 on GitHub 
+- [ ] Allow them to clone the respository 
+- [ ] Make a profit! 

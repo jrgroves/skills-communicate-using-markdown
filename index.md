@@ -1,2 +1,2 @@
 # This is my main header
-## This is a smaller heading
+![Image of Cool Octocat](https://octodex.github.com/images/privateinvestocat.jpg)
